@@ -7,7 +7,7 @@ App desenvolvido com a finalidade de explorar repositórios do github através d
 
 App desenvolvido durante estudos do bootcamp GoStack da RocketSeat :rocket:
 
-# Instalação e usabilidade
+# Instalação
 
 1. Acessar a pasta do projeto 
 
@@ -16,6 +16,8 @@ App desenvolvido durante estudos do bootcamp GoStack da RocketSeat :rocket:
 3. Executar via terminal o comando `yarn` para instalar as dependências
 
 4. Executar via terminal o comando `yarn start`
+
+# Usabilidade
 
 5. Inserir o no campo input o endereço do repositório no formato **usuário/repositório**. Ex: *Rocketseat/unform* 
 
