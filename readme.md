@@ -9,13 +9,15 @@ App desenvolvido durante estudos do bootcamp GoStack da RocketSeat :rocket:
 
 # Instalação
 
-1. Acessar a pasta do projeto 
+1. Git Clone
 
-2. Abrir o terminal
+2. Acessar a pasta do projeto 
 
-3. Executar via terminal o comando `yarn` para instalar as dependências
+3. Abrir o terminal
 
-4. Executar via terminal o comando `yarn start`
+4. Executar via terminal o comando `yarn` para instalar as dependências
+
+5. Executar via terminal o comando `yarn start`
 
 # Usabilidade
 
@@ -23,3 +25,6 @@ App desenvolvido durante estudos do bootcamp GoStack da RocketSeat :rocket:
 
 
 <img src="src/assets/github_explorer.gif" alt="github_explorer_sample" width="100%">
+
+# Dúvidas?
+https://www.linkedin.com/in/marcelobonilla/
