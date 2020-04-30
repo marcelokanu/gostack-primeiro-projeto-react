@@ -1,4 +1,5 @@
-# github_explorer
+<img src="src/assets/logo.svg" alt="github_explorer" width="100%">
+
 
 # Sobre o projeto 
 App desenvolvido com a finalidade de explorar repositórios do github através de adição e visualização de informações do repositório tais como Title, Description, Stars, Forks e Issues.
@@ -19,4 +20,4 @@ App desenvolvido durante estudos do bootcamp GoStack da RocketSeat :rocket:
 5. Inserir o no campo input o endereço do repositório no formato **usuário/repositório**. Ex: *Rocketseat/unform* 
 
 
-<img src="src/assets/github_explorer.gif" alt="gobarberweb" width="100%">
+<img src="src/assets/github_explorer.gif" alt="github_explorer_sample" width="100%">
