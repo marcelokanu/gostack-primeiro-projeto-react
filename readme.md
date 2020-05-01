@@ -32,4 +32,4 @@ VSCode, ESLint, Prettier e EditorConfig
 <img src="src/assets/github_explorer.gif" alt="github_explorer_sample" width="100%">
 
 # Dúvidas?
-:mailbox_with_no_mail: https://www.linkedin.com/in/marcelobonilla/
+:mailbox_with_no_mail:[Marcelo Bonilla](https://www.linkedin.com/in/marcelobonilla/)
