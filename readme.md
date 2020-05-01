@@ -14,13 +14,13 @@ typescript, reactjs
 
 1. Git Clone
 
-2. Acessar a pasta do projeto 
+2. Abrir o terminal  
 
-3. Abrir o terminal
+3. Acessar a pasta do projeto
 
 4. Executar via terminal o comando `yarn` para instalar as dependências
 
-5. Executar via terminal o comando `yarn start`
+5. Executar via terminal o comando `yarn start` para rodar o projeto
 
 # Usabilidade
 
