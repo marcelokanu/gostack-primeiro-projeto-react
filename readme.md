@@ -26,7 +26,7 @@ VSCode, ESLint, Prettier e EditorConfig
 
 # Usabilidade
 
-5. Inserir o no campo input o endereço do repositório no formato **usuário/repositório**. Ex: *Rocketseat/unform*
+1. Inserir o no campo input o endereço do repositório no formato **usuário/repositório**. Ex: *Rocketseat/unform*
 
 
 <img src="src/assets/github_explorer.gif" alt="github_explorer_sample" width="100%">
