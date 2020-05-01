@@ -2,10 +2,13 @@
 
 
 # Sobre o projeto 
-App desenvolvido com a finalidade de explorar repositórios do github através de adição e visualização de informações do repositório tais como Title, Description, Stars, Forks e Issues.
+App desenvolvido com a finalidade de explorar repositórios do github através de adição e visualização de informações do repositório tais como Title, Description, Link, Stars, Forks e Issues.
 
 
 App desenvolvido durante estudos do bootcamp GoStack da RocketSeat :rocket:
+
+typescript, reactjs
+
 
 # Instalação
 
@@ -27,4 +30,4 @@ App desenvolvido durante estudos do bootcamp GoStack da RocketSeat :rocket:
 <img src="src/assets/github_explorer.gif" alt="github_explorer_sample" width="100%">
 
 # Dúvidas?
-https://www.linkedin.com/in/marcelobonilla/
+:mailbox_with_no_mail: https://www.linkedin.com/in/marcelobonilla/
